@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f3971f4d-b958-4dd9-b171-267ffbcfa956/deploy-status)](https://app.netlify.com/sites/labourhopscotch/deploys)
+
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zeit/next.js/tree/master/examples/hello-world)
 
 # Hello World example
