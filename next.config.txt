@@ -1,0 +1,2 @@
+// const withSass = require("./next-sass");
+// module.exports = withSass();

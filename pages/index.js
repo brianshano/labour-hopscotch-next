@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Head from "next/head";
-import "../styles.scss";
+// import "../styles.css";
 
 export default () => (
   <>
@@ -9,7 +9,6 @@ export default () => (
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
     <div className="main-body">
-      <div className="example">Hello World!</div>
       <div className="hopscotch-title">Labour Hopscotch</div>
       <div className="hopscotch-logo">
         <img
